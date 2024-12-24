@@ -16,15 +16,15 @@ Thought process:
 - Import dataset
 - EDA to understand the dataset and its distributions:
   - Data summary: describe, info
+  - Data quality assessment: 
+    - Check for missing values
+    - Check for duplicates
+    - Check for outliers
   - Data visualization: 
     - Distribution of target variable
     - Distribution of numerical features
     - Distribution of categorical features
     - Correlation heatmap
-  - Data quality assessment: 
-    - Check for missing values
-    - Check for duplicates
-    - Check for outliers
 - Data Preprocessing, Cleaning, Feature Engineering and Feature Selection:
   - Data Preprocessing:
     - One-hot encoding for categorical features (features with high cardinality)
