@@ -45,12 +45,8 @@ Thought process:
     - Train the model using training data
     - Predict the target variable using test data
   - Model Evaluation:
-    - Accuracy
-    - Precision
-    - Recall
-    - F1 Score
-    - Confusion Matrix
-    - ROC-AUC Curve
+    - Mean Squared Error (MSE)
+    - R-squared (R²)
 - Hyperparameter Tuning and Model Evaluation:
   - Hyperparameter Tuning:
     - GridSearchCV
