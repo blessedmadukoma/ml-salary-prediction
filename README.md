@@ -1,4 +1,4 @@
-## Salary Prediction Using Random Forest and Logistic Regression
+## Salary Prediction Using Random Forest and Linear Regression
 
 The goal of this project is to predict the salary of a person based on the job description.
 
@@ -39,7 +39,7 @@ Thought process:
     - Feature selection (SelectKBest)
 - Model Building, Training and Evaluation:
   - Model Building:
-    - Logistic Regression
+    - Linear Regression
     - Random Forest
   - Model Training:
     - Train the model using training data
